@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/spring-app-consumer/build/
+/spring-app-consumer/build/classes/java/main/
+/spring-app-producer/build/
+/spring-app-producer/build/classes/java/main/

@@ -1,0 +1,4 @@
+rootProject.name = 'Homework-kafka-producer-consumer'
+include 'spring-app-producer'
+include 'spring-app-consumer'
+

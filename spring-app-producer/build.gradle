@@ -1,0 +1,9 @@
+version = '1.0.0'
+
+springBoot {
+    mainClassName = "org.example.SpringAppProducer"
+}
+
+dependencies {
+    compile libpacks.spring_common
+}
